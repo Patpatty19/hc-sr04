@@ -46,6 +46,6 @@ void loop() {
   digitalWrite(led_5, (centi >= 250) ? HIGH : LOW);
   digitalWrite(led_6, (centi >= 300) ? HIGH : LOW);
   
-  // Output computed centimeters
+  // Output computed to centimeters
   Serial.println(centi);
 }
