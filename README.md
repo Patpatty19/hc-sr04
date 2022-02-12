@@ -8,5 +8,5 @@ This code uses the HC-SR04 ultrasonic sensor to determine its distance in which 
 ### Credits
 - Manuel Angelo R. Abanilla
 - Ken Adrian Alupit
-- Patrick Babala
+- Patrick Miguel Babala
 
